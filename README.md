@@ -23,8 +23,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Create a Virtual machine
-- 
-- Item 3
+- Connect and login to the Virtual Machine using Remote Desktop Connection for Windows or download Microsoft Remote Desktop for Mac user
+- Install and enable Internet Information Services (IIS) in Windows With CGI
 - Item 4
 - Item 5
 
